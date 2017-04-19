@@ -1,0 +1,8 @@
+/backups
+/elpa
+*~
+/tramp
+/recentf
+\#*
+/abbre_defs
+.DS_store
